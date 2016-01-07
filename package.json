@@ -5,7 +5,6 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "start": "babel-node ./index.js",
     "update-schema": "babel-node ./scripts/updateSchema.js",
     "build": "webpack"
   },
