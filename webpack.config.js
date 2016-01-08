@@ -4,6 +4,7 @@ module.exports = {
   target: 'node',
   entry: './index.js',
   output: {
+    path: "./dist",
     library: "swapiLambda",
     libraryTarget: "commonjs2",
     filename: "swapiLambda.js"

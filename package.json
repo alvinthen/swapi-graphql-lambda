@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "update-schema": "babel-node ./scripts/updateSchema.js",
-    "build": "webpack"
+    "build": "webpack && cd ./dist/ && zip bundle.zip *"
   },
   "keywords": [
     "graphql",
