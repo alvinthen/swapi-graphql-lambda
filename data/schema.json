@@ -1335,7 +1335,7 @@
             },
             {
               "name": "surfaceWater",
-              "description": "The percentage of the planet surface that is naturally occuring water or bodies\nof water.",
+              "description": "The percentage of the planet surface that is naturally occurring water or bodies\nof water.",
               "args": [],
               "type": {
                 "kind": "SCALAR",
