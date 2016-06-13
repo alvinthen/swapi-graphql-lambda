@@ -81,7 +81,7 @@ G. "2" is twice or 2 standard Gs. "0.5" is half or 0.5 standard Gs.`
       type: GraphQLFloat,
       resolve: (planet) => planet.surface_water,
       description:
-`The percentage of the planet surface that is naturally occuring water or bodies
+`The percentage of the planet surface that is naturally occurring water or bodies
 of water.`
     },
     residentConnection: connectionFromUrls(
